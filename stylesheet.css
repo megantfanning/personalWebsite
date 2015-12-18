@@ -1,0 +1,11 @@
+body {
+    background-color: lightgray;
+}
+div{
+    padding:2px;
+    text-align:left;
+}
+
+h1 {
+    padding:5px;
+}
