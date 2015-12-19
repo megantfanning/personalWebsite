@@ -9,3 +9,21 @@ div{
 h1 {
     padding:5px;
 }
+
+#menu ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #333;
+}
+
+#menu li {
+    float: left;
+    border-right:1px solid #bbb;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float:right;
+    list-style-type:none;
+}
